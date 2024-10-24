@@ -1,7 +1,6 @@
 :root {
     --fuenteHeading: 'PT Sans', sans-serif;
     --fuenteParrafos: 'Open Sans', sans-serif;
-
     --primario: #784D3C;
     --gris: #e1e1e1;
     --blanco: #ffffff;
@@ -19,6 +18,8 @@ body {
     font-size: 1.6rem;
     line-height: 2;
 }
+
+
 
 /** Globales **/
 .contenedor {
@@ -270,4 +271,8 @@ img {
 }
 .campo__field--textarea {
     height: 20rem;
+}
+
+.nueva-clase{
+    color: crimson;
 }
