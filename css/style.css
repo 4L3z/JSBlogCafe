@@ -275,4 +275,18 @@ img {
 
 .nueva-clase{
     color: crimson;
+    background-color: #f3a76d;
+
+}
+
+.parrafoHermoso{
+    font-size: 15px;
+    font-weight: 800;
+    color: #ff0505;
+    text-shadow: #df0808 1px 2px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 900px; 
+    max-width: 100%; 
+    margin: 30px auto;
+
 }
